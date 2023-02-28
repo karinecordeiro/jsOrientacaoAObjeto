@@ -1,11 +1,11 @@
-class cliente{
+class Cliente{
     nome;
     cpf;
     agencia;
     saldo;
 }
 
-const cliente1 = new cliente();
+const cliente1 = new Cliente();
 
 cliente1.nome = "Alice";
 cliente1.cpf = 11122233300;
